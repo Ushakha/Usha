@@ -1,2 +1,3 @@
 # Usha
-this is my first repository
+this is my git first repository
+usha khalkar
